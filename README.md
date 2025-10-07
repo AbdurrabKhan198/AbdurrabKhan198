@@ -117,22 +117,64 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=AbdurrabKhan198&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
   </a>
   
+  <!-- Activity Graph -->
   <a href="https://github.com/AbdurrabKhan198">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  </a>
+  
+  <!-- Contribution Snake -->
+  <a href="https://github.com/AbdurrabKhan198">
+    <img src="https://raw.githubusercontent.com/AbdurrabKhan198/AbdurrabKhan198/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
   </a>
 </div>
 
 ---
 
-## 🚀 Current Focus & Activity
+## 🚀 What I'm Working On
 
-<div align="center">
-  <a href="https://github.com/AbdurrabKhan198">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;">
+    <h3 align="center" style="color: #3B82F6; margin-bottom: 15px; font-size: 1.4em;">💻 Technical Development</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>🔹 Building scalable MERN stack applications</li>
+      <li>🔹 Developing robust Python & Django backends</li>
+      <li>🔹 Cloud deployments with AWS & Firebase</li>
+      <li>🔹 Creating intuitive UI/UX designs</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;">
+    <h3 align="center" style="color: #3B82F6; margin-bottom: 15px; font-size: 1.4em;">🚀 Business Growth</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>🔹 E-commerce solutions & platforms</li>
+      <li>🔹 Digital marketing & SEO strategies</li>
+      <li>🔹 Startup consulting & tech implementation</li>
+      <li>🔹 Business process automation</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;">
+    <h3 align="center" style="color: #3B82F6; margin-bottom: 15px; font-size: 1.4em;">🌍 Community & Learning</h3>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li>🔹 Open source contributions</li>
+      <li>🔹 Mentoring aspiring developers</li>
+      <li>🔹 Continuous learning & certifications</li>
+      <li>🔹 Tech blogging & knowledge sharing</li>
+    </ul>
+  </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+## 📈 My Activity
+
+<div align="center">
+  <a href="https://wakatime.com/@AbdurrabKhan198">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&custom_title=Weekly%20Development%20Breakdown" alt="Weekly Development Breakdown" />
+  </a>
+  
+  <a href="https://github.com/AbdurrabKhan198">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" />
+  </a>
+</div>
   <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1F6FEB;">
     <h3 align="center">💻 Technical Development</h3>
     <ul>
@@ -176,34 +218,52 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://linkedin.com/in/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/AbdurrabKhan198" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:abdurrab.khan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://abdurrabkhan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://medium.com/@abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <a href="https://www.buymeacoffee.com/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
+<div align="center" style="margin: 30px 0;">
+  <h2 style="color: #3B82F6; margin-bottom: 20px;">Get In Touch</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
+    <a href="https://linkedin.com/in/abdurrabkhan" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0D1117; padding: 10px 20px; border-radius: 8px; border: 1px solid #1F6FEB; transition: all 0.3s ease;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="24" height="24" style="margin-right: 10px;" />
+        <span>LinkedIn</span>
+      </div>
+    </a>
+    
+    <a href="https://twitter.com/abdurrabkhan" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0D1117; padding: 10px 20px; border-radius: 8px; border: 1px solid #1F6FEB; transition: all 0.3s ease;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" width="24" height="24" style="margin-right: 10px;" />
+        <span>Twitter</span>
+      </div>
+    </a>
+    
+    <a href="https://github.com/AbdurrabKhan198" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0D1117; padding: 10px 20px; border-radius: 8px; border: 1px solid #1F6FEB; transition: all 0.3s ease;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="24" height="24" style="margin-right: 10px;" />
+        <span>GitHub</span>
+      </div>
+    </a>
+    
+    <a href="mailto:abdurrab.khan@example.com" target="_blank" style="text-decoration: none;">
+      <div style="display: flex; align-items: center; background: #0D1117; padding: 10px 20px; border-radius: 8px; border: 1px solid #1F6FEB; transition: all 0.3s ease;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="24" height="24" style="margin-right: 10px;" />
+        <span>Email</span>
+      </div>
+    </a>
+  </div>
+  
+  <h3 style="color: #3B82F6; margin: 25px 0 15px;">Support My Work</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+    <a href="https://www.buymeacoffee.com/abdurrabkhan" target="_blank">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+    <a href="https://ko-fi.com/abdurrabkhan" target="_blank">
+      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    </a>
+  </div>
+  
+  <p style="margin-top: 20px; color: #8B949E;">
+    Open to exciting opportunities and collaborations. Let's build something amazing together! 🚀
+  </p>
 </div>
 
 ---
@@ -230,15 +290,37 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!" alt="Thank You" />
 </div>
 
-<div align="center">
-  <h3>📈 My Contribution Graph</h3>
-  <img src="https://github.com/AbdurrabKhan198/AbdurrabKhan198/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<div align="center" style="margin-top: 40px;">
+  <h2 style="color: #3B82F6; margin-bottom: 20px;">🚀 My GitHub Contributions</h2>
   
-  <h3>📊 Weekly Development Breakdown</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Weekly Development Breakdown" />
+  <div style="background: #0D1117; padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
+    <img src="https://raw.githubusercontent.com/AbdurrabKhan198/AbdurrabKhan198/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="max-width: 100%;" />
+  </div>
   
-  <h3>🚀 Recent GitHub Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+    <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #3B82F6; text-align: center; margin-bottom: 15px;">📊 Weekly Coding Activity</h3>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&custom_title=This%20Week%27s%20Coding" alt="Weekly Development Breakdown" />
+    </div>
+    
+    <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #3B82F6; text-align: center; margin-bottom: 15px;">🔥 Recent Activity</h3>
+      <!-- GitHub Readme Activity Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" />
+    </div>
+  </div>
   
-  <h3>🌟 "First solve the problem. Then write the code." - John Johnson</h3>
+  <div style="margin: 40px 0 20px; padding: 20px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); border-radius: 15px; border: 1px solid #1F6FEB; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <h3 style="color: #3B82F6; text-align: center; margin-bottom: 15px;">🌟 Words to Code By</h3>
+    <blockquote style="font-style: italic; color: #8B949E; text-align: center; font-size: 1.1em; line-height: 1.6;">
+      "First, solve the problem. Then, write the code."
+      <footer style="margin-top: 10px; color: #58A6FF;">— John Johnson</footer>
+    </blockquote>
+  </div>
+  
+  <div style="margin-top: 30px; padding: 15px; background: #0D1117; border-radius: 10px; border: 1px solid #1F6FEB; display: inline-block;">
+    <p style="margin: 0; color: #8B949E; font-size: 0.9em;">
+      Last Updated: October 2023 | Made with ❤️ by Abdurrab Khan
+    </p>
+  </div>
 </div>
