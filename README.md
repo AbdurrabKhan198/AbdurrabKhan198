@@ -1,14 +1,23 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Abdurrab Khan</h1>
-  <h3>Full-Stack Developer | Tech Entrepreneur | Problem Solver</h3>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor;Passionate+Learner" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdurrabkhan&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Abdurrab%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  
+  <h2>👨‍💻 Full-Stack Developer | 🚀 Tech Entrepreneur | 🎯 Problem Solver</h2>
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Transforming+Ideas+Into+Reality;Full-Stack+Development+Specialist;Open+Source+Enthusiast" alt="Typing SVG" />
+  </div>
+  
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/AbdurrabKhan198?tab=followers">
+      <img src="https://img.shields.io/github/followers/AbdurrabKhan198?label=Follow%20%40AbdurrabKhan198&style=social" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=abdurrabkhan">
+      <img src="https://komarev.com/ghpvc/?username=abdurrabkhan&style=flat-square&color=3B82F6" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/AbdurrabKhan198">
+      <img src="https://img.shields.io/github/stars/AbdurrabKhan198?style=social" alt="GitHub Stars" />
+    </a>
+  </div>
 </div>
 
 ---
@@ -95,41 +104,65 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrabkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6" alt="GitHub Stats" />
+  <a href="https://github.com/AbdurrabKhan198">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdurrabKhan198&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&include_all_commits=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurrabKhan198&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrabkhan&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrabkhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdurrabkhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/AbdurrabKhan198">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrabKhan198&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=AbdurrabKhan198&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+  
+  <a href="https://github.com/AbdurrabKhan198">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Activity
 
-### **💻 Technical Development**
-- **MERN Stack Development** - Building scalable web applications
-- **Python & Django** - Developing robust backend systems
-- **Cloud Technologies** - AWS, Firebase, and Vercel deployments
-- **UI/UX Design** - Creating intuitive user experiences
+<div align="center">
+  <a href="https://github.com/AbdurrabKhan198">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</div>
 
-### **📈 Business Growth**
-- **E-commerce Solutions** - Helping businesses establish online presence
-- **Digital Marketing** - SEO and social media strategies
-- **Startup Consulting** - Guiding new ventures in tech implementation
-
-### **🌍 Community & Learning**
-- **Open Source Contributions** - Actively contributing to tech community
-- **Mentorship** - Guiding aspiring developers
-- **Continuous Learning** - Staying updated with latest technologies
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1F6FEB;">
+    <h3 align="center">💻 Technical Development</h3>
+    <ul>
+      <li>Building scalable MERN stack applications</li>
+      <li>Developing robust Python & Django backends</li>
+      <li>Cloud deployments with AWS & Firebase</li>
+      <li>Creating intuitive UI/UX designs</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1F6FEB;">
+    <h3 align="center">🚀 Business Growth</h3>
+    <ul>
+      <li>E-commerce solutions & platforms</li>
+      <li>Digital marketing & SEO strategies</li>
+      <li>Startup consulting & tech implementation</li>
+      <li>Business process automation</li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 10px; border: 1px solid #1F6FEB;">
+    <h3 align="center">🌍 Community & Learning</h3>
+    <ul>
+      <li>Open source contributions</li>
+      <li>Mentoring aspiring developers</li>
+      <li>Continuous learning & certifications</li>
+      <li>Tech blogging & knowledge sharing</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -141,20 +174,35 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <a href="https://linkedin.com/in/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/abdurrabkhan" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/AbdurrabKhan198" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:abdurrab.khan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://abdurrabkhan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://medium.com/@abdurrabkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.buymeacoffee.com/abdurrabkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/abdurrabkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </div>
 
@@ -183,5 +231,14 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 </div>
 
 <div align="center">
-  <img src="https://github.com/abdurrabkhan/abdurrabkhan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <h3>📈 My Contribution Graph</h3>
+  <img src="https://github.com/AbdurrabKhan198/AbdurrabKhan198/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  
+  <h3>📊 Weekly Development Breakdown</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" alt="Weekly Development Breakdown" />
+  
+  <h3>🚀 Recent GitHub Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  
+  <h3>🌟 "First solve the problem. Then write the code." - John Johnson</h3>
 </div>
