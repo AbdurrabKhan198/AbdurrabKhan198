@@ -71,26 +71,9 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 
 ## 🏆 Key Achievements
 
-<div align="center" style="margin: 30px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; min-width: 200px; text-align: center;">
-      <h3 style="color: #3B82F6; margin: 0 0 10px;">🚀 5+ Years</h3>
-      <p style="margin: 0; color: #8B949E;">Experience in Full-Stack Development</p>
-    </div>
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; min-width: 200px; text-align: center;">
-      <h3 style="color: #3B82F6; margin: 0 0 10px;">💼 10+ Projects</h3>
-      <p style="margin: 0; color: #8B949E;">Successfully Delivered</p>
-    </div>
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; min-width: 200px; text-align: center;">
-      <h3 style="color: #3B82F6; margin: 0 0 10px;">🎯 100%</h3>
-      <p style="margin: 0; color: #8B949E;">Client Satisfaction Rate</p>
-    </div>
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; min-width: 200px; text-align: center;">
-      <h3 style="color: #3B82F6; margin: 0 0 10px;">⚡ 50+</h3>
-      <p style="margin: 0; color: #8B949E;">Healthcare Providers Onboarded</p>
-    </div>
-  </div>
-</div>
+| 🚀 **5+ Years** | 💼 **10+ Projects** | 🎯 **100%** | ⚡ **50+** |
+|:---:|:---:|:---:|:---:|
+| Experience in Full-Stack Development | Successfully Delivered | Client Satisfaction Rate | Healthcare Providers Onboarded |
 
 ---
 
@@ -246,89 +229,43 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
 
 ## 💬 What Clients Say
 
-<div align="center" style="margin: 30px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; max-width: 350px; text-align: center;">
-      <p style="color: #8B949E; font-style: italic; margin-bottom: 15px;">"Abdurrab delivered our healthcare platform exactly as envisioned. His technical expertise and business understanding made the entire process seamless."</p>
-      <p style="color: #3B82F6; font-weight: bold; margin: 0;">— Dr. Sarah Johnson, Mediwell Care</p>
-    </div>
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; max-width: 350px; text-align: center;">
-      <p style="color: #8B949E; font-style: italic; margin-bottom: 15px;">"The e-commerce platform exceeded our expectations. Sales increased by 300% within the first month of launch."</p>
-      <p style="color: #3B82F6; font-weight: bold; margin: 0;">— Michael Chen, CreateCute</p>
-    </div>
-    <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; max-width: 350px; text-align: center;">
-      <p style="color: #8B949E; font-style: italic; margin-bottom: 15px;">"Professional, reliable, and incredibly talented. Abdurrab transformed our business with his digital solutions."</p>
-      <p style="color: #3B82F6; font-weight: bold; margin: 0;">— Lisa Rodriguez, Unistar Engineering</p>
-    </div>
-  </div>
-</div>
+> *"Abdurrab delivered our healthcare platform exactly as envisioned. His technical expertise and business understanding made the entire process seamless."*  
+> **— Dr. Sarah Johnson, Mediwell Care**
+
+> *"The e-commerce platform exceeded our expectations. Sales increased by 300% within the first month of launch."*  
+> **— Michael Chen, CreateCute**
+
+> *"Professional, reliable, and incredibly talented. Abdurrab transformed our business with his digital solutions."*  
+> **— Lisa Rodriguez, Unistar Engineering**
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center" style="margin: 30px 0;">
-  <h2 style="color: #3B82F6; margin-bottom: 20px;">🚀 Ready to Transform Your Business?</h2>
-  
-  <div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 30px; border-radius: 20px; border: 1px solid #1F6FEB; margin-bottom: 30px; max-width: 600px;">
-    <h3 style="color: #3B82F6; margin-bottom: 15px;">Let's Build Something Amazing Together!</h3>
-    <p style="color: #8B949E; margin-bottom: 20px;">Whether you need a complete digital transformation, a custom web application, or technical consulting, I'm here to help your business thrive in the digital age.</p>
-    
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 25px;">
-      <a href="https://linkedin.com/in/abdurrabkhan" target="_blank" style="text-decoration: none;">
-        <div style="display: flex; align-items: center; background: #0D1117; padding: 12px 20px; border-radius: 10px; border: 1px solid #1F6FEB; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="24" height="24" style="margin-right: 10px;" />
-          <span>LinkedIn</span>
-        </div>
-      </a>
-      
-      <a href="https://twitter.com/abdurrabkhan" target="_blank" style="text-decoration: none;">
-        <div style="display: flex; align-items: center; background: #0D1117; padding: 12px 20px; border-radius: 10px; border: 1px solid #1F6FEB; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" width="24" height="24" style="margin-right: 10px;" />
-          <span>Twitter</span>
-        </div>
-      </a>
-      
-      <a href="https://github.com/AbdurrabKhan198" target="_blank" style="text-decoration: none;">
-        <div style="display: flex; align-items: center; background: #0D1117; padding: 12px 20px; border-radius: 10px; border: 1px solid #1F6FEB; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" width="24" height="24" style="margin-right: 10px;" />
-          <span>GitHub</span>
-        </div>
-      </a>
-      
-      <a href="mailto:abdurrab.khan@example.com" target="_blank" style="text-decoration: none;">
-        <div style="display: flex; align-items: center; background: #0D1117; padding: 12px 20px; border-radius: 10px; border: 1px solid #1F6FEB; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="24" height="24" style="margin-right: 10px;" />
-          <span>Email</span>
-        </div>
-      </a>
-    </div>
-    
-    <div style="background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; margin: 20px 0;">
-      <h4 style="color: #3B82F6; margin-bottom: 10px;">💼 Available for:</h4>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <span style="background: #1F6FEB; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9em;">Full-Stack Development</span>
-        <span style="background: #1F6FEB; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9em;">E-commerce Solutions</span>
-        <span style="background: #1F6FEB; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9em;">Technical Consulting</span>
-        <span style="background: #1F6FEB; color: white; padding: 5px 12px; border-radius: 20px; font-size: 0.9em;">Digital Strategy</span>
-      </div>
-    </div>
-  </div>
-  
-  <h3 style="color: #3B82F6; margin: 25px 0 15px;">☕ Support My Work</h3>
-  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
-    <a href="https://www.buymeacoffee.com/abdurrabkhan" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-    <a href="https://ko-fi.com/abdurrabkhan" target="_blank">
-      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-    </a>
-  </div>
-  
-  <p style="margin-top: 20px; color: #8B949E; font-size: 1.1em;">
-    <strong>Ready to take your business to the next level?</strong> Let's discuss your project and create something extraordinary! 🚀
-  </p>
-</div>
+### 🚀 Ready to Transform Your Business?
+
+**Let's Build Something Amazing Together!**
+
+Whether you need a complete digital transformation, a custom web application, or technical consulting, I'm here to help your business thrive in the digital age.
+
+#### 📞 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrabkhan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdurrabkhan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdurrabKhan198)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrab.khan@example.com)
+
+#### 💼 Available for:
+- **Full-Stack Development** - Complete web applications
+- **E-commerce Solutions** - Online stores and marketplaces  
+- **Technical Consulting** - Architecture and strategy
+- **Digital Strategy** - Business transformation
+
+#### ☕ Support My Work
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abdurrabkhan)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/abdurrabkhan)
+
+**Ready to take your business to the next level?** Let's discuss your project and create something extraordinary! 🚀
 
 ---
 
@@ -354,44 +291,29 @@ I'm a **versatile Full-Stack Developer** and **tech entrepreneur** with a passio
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+something+amazing+together!" alt="Thank You" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
-  <h2 style="color: #3B82F6; margin-bottom: 20px;">🚀 My Development Journey</h2>
-  
-  <div style="background: #0D1117; padding: 25px; border-radius: 15px; border: 1px solid #1F6FEB; margin-bottom: 30px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
-    <img src="https://raw.githubusercontent.com/AbdurrabKhan198/AbdurrabKhan198/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="max-width: 100%;" />
-  </div>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
-    <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
-      <h3 style="color: #3B82F6; text-align: center; margin-bottom: 15px;">📊 Weekly Coding Activity</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&custom_title=This%20Week%27s%20Coding" alt="Weekly Development Breakdown" />
-    </div>
-    
-    <div style="flex: 1; min-width: 300px; background: #0D1117; padding: 20px; border-radius: 15px; border: 1px solid #1F6FEB; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);">
-      <h3 style="color: #3B82F6; text-align: center; margin-bottom: 15px;">🔥 Recent Activity</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" />
-    </div>
-  </div>
-  
-  <div style="margin: 40px 0 20px; padding: 30px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); border-radius: 20px; border: 1px solid #1F6FEB; max-width: 800px; margin-left: auto; margin-right: auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <h3 style="color: #3B82F6; text-align: center; margin-bottom: 20px;">🌟 My Philosophy</h3>
-    <blockquote style="font-style: italic; color: #8B949E; text-align: center; font-size: 1.2em; line-height: 1.6; margin-bottom: 20px;">
-      "Technology should solve real problems and create meaningful impact. Every line of code I write is a step toward building a better digital future."
-    </blockquote>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
-      <span style="background: #1F6FEB; color: white; padding: 8px 16px; border-radius: 25px; font-size: 0.9em;">Innovation</span>
-      <span style="background: #1F6FEB; color: white; padding: 8px 16px; border-radius: 25px; font-size: 0.9em;">Excellence</span>
-      <span style="background: #1F6FEB; color: white; padding: 8px 16px; border-radius: 25px; font-size: 0.9em;">Impact</span>
-      <span style="background: #1F6FEB; color: white; padding: 8px 16px; border-radius: 25px; font-size: 0.9em;">Collaboration</span>
-    </div>
-  </div>
-  
-  <div style="margin-top: 30px; padding: 20px; background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); border-radius: 15px; border: 1px solid #1F6FEB; display: inline-block; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-    <p style="margin: 0; color: #8B949E; font-size: 1em;">
-      <strong>Last Updated:</strong> December 2024 | Made with ❤️ and ☕ by Abdurrab Khan
-    </p>
-    <p style="margin: 10px 0 0; color: #3B82F6; font-size: 0.9em;">
-      🚀 Ready to build the future together?
-    </p>
-  </div>
+## 🚀 My Development Journey
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbdurrabKhan198/AbdurrabKhan198/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+### 📊 Weekly Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdurrabKhan198&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&custom_title=This%20Week%27s%20Coding" alt="Weekly Development Breakdown" />
+
+### 🔥 Recent Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" />
+
+---
+
+## 🌟 My Philosophy
+
+> *"Technology should solve real problems and create meaningful impact. Every line of code I write is a step toward building a better digital future."*
+
+**Core Values:** `Innovation` `Excellence` `Impact` `Collaboration`
+
+---
+
+<div align="center">
+  <p><strong>Last Updated:</strong> December 2024 | Made with ❤️ and ☕ by Abdurrab Khan</p>
+  <p>🚀 Ready to build the future together?</p>
 </div>
