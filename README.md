@@ -155,20 +155,7 @@ Hey there! 👋 I'm **Abdurrab Khan** — a **code-slinging wizard** who turns c
 
 ---
 
-## 💬 What Clients Are Saying
 
-<div style="background: linear-gradient(145deg, #0D1117 0%, #1A1F2C 100%); padding: 30px; border-radius: 15px; border: 1px solid #1F6FEB; margin: 20px 0;">
-
-> *"Abdurrab didn't just build our platform — he **revolutionized our entire business**. His technical brilliance combined with business acumen is absolutely unmatched!"*  
-> **— Dr. Sarah Johnson, Mediwell Care** ⭐⭐⭐⭐⭐
-
-> *"We expected great things, but Abdurrab **blew our minds**. This isn't just a platform — it's a **game-changing solution**."*  
-> **— Michael Chen, CreateCute** ⭐⭐⭐⭐⭐
-
-> *"Professional, reliable, and **incredibly talented**. Abdurrab transformed our business from the ground up!"*  
-> **— Lisa Rodriguez, Unistar Engineering** ⭐⭐⭐⭐⭐
-
-</div>
 
 ---
 
@@ -222,6 +209,6 @@ Hey there! 👋 I'm **Abdurrab Khan** — a **code-slinging wizard** who turns c
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Ready+to+Build+Something+Epic?;Let's+Create+Magic+Together!;Your+Success+Is+My+Mission!" alt="Thank You" />
   
-  <p style="margin-top: 30px;"><strong>Last Updated:</strong> December 2024 | Made with ❤️ and ☕ by Abdurrab Khan</p>
+  <p style="margin-top: 30px;"><strong>Last Updated:</strong> Feb 2026 | Made with ❤️ and ☕ by Abdurrab Khan</p>
   <p style="font-size: 1.1em; color: #3B82F6;">🚀 <strong>Let's build the future, one line of code at a time!</strong></p>
 </div>
