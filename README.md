@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Abdurrab%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
   
-  <h2>🔥 Code Wizard | 💎 Digital Architect | ⚡ Innovation Catalyst</h2>
+  <h2>🔥 AI Engineer | 💎 Data Scientist | ⚡ Creative Thinker</h2>
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Turning+Vision+Into+Reality;Building+The+Future+One+Line+At+A+Time;Where+Code+Meets+Creativity;Transforming+Businesses+Through+Tech;Creating+Digital+Masterpieces" alt="Typing SVG" />
@@ -16,11 +16,6 @@ Hey there! 👋 I'm **Abdurrab Khan** — a **code-slinging wizard** who turns c
 
 **What makes me different?** I don't just write code — I **engineer success stories**. Every project becomes a **breakthrough**, every client becomes a **raving fan**.
 
-🎯 **My Superpowers:**
-- 🚀 **Building bulletproof applications** that scale effortlessly
-- 🎨 **Designing stunning user experiences** that make people fall in love
-- ⚡ **Delivering lightning-fast solutions** that exceed expectations
-- 💡 **Transforming ideas** into powerful digital products
 
 > *"The best way to predict the future is to create it."* - Peter Drucker
 
@@ -34,10 +29,10 @@ Hey there! 👋 I'm **Abdurrab Khan** — a **code-slinging wizard** who turns c
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurrabKhan198&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
   </a>
   
-  <a href="https://github.com/AbdurrabKhan198">
+  <!-- <a href="https://github.com/AbdurrabKhan198">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrabKhan198&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=AbdurrabKhan198&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  </a> -->
   
   <a href="https://github.com/AbdurrabKhan198">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
