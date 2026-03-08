@@ -24,15 +24,15 @@ Hey there! 👋 I'm **Abdurrab Khan** — a **code-slinging wizard** who turns c
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- <a href="https://github.com/AbdurrabKhan198">
+  <a href="https://github.com/AbdurrabKhan198">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdurrabKhan198&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&icon_color=3B82F6&include_all_commits=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurrabKhan198&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=3B82F6&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-  </a> -->
+  </a>
   
-  <a href="https://github.com/AbdurrabKhan198">
+  <!-- <a href="https://github.com/AbdurrabKhan198">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrabKhan198&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
     <img width="49%" src="https://github-profile-trophy.vercel.app/?username=AbdurrabKhan198&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  </a> -->
   
   <a href="https://github.com/AbdurrabKhan198">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdurrabKhan198&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
