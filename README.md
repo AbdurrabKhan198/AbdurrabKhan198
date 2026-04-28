@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Abdurrab%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
   
-  <h2>🔥 AI Engineer  | ⚡ Creative Thinker</h2>
+  <h2>🔥 AI Engineer  | ⚡ Web Devloper</h2>
   
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Turning+Vision+Into+Reality;Building+The+Future+One+Line+At+A+Time;Where+Code+Meets+Creativity;Transforming+Businesses+Through+Tech;Creating+Digital+Masterpieces" alt="Typing SVG" />
